@@ -1,0 +1,5 @@
+Abstract modifier only applicable for method and class.
+
+Abstract method has only declaration not implementation.
+    Child class is responsible to provide implementation for abstract method.
+
